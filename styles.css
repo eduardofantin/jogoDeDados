@@ -1,0 +1,41 @@
+body{
+  background-color: #393E46;
+}
+
+h1{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  text-shadow: 5px 0 #232931;
+}
+
+img{
+  width: 80%;
+}
+
+p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
+
+
+
+.dice{
+  display: inline-block;
+  margin: 0 1%;
+  text-align: center;
+}
+
+.container{
+  color: #4ECCA3;
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.footer{
+  color: #EEEEEE;
+  font-size: 1rem;
+  margin-top: 5%;
+  text-align: center;
+}
